@@ -1,0 +1,22 @@
+{
+  "name": "tugas-js-sbc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal-1-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amdvrz/tugas-js-sbc.git"
+  },
+  "author": "Andhiny Fatikha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amdvrz/tugas-js-sbc/issues"
+  },
+  "homepage": "https://github.com/amdvrz/tugas-js-sbc#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
