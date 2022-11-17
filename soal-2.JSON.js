@@ -40,15 +40,6 @@ let productBin = {
     "message": "success"
 }
 
-// let data1 = productBin.data[0].quantity;
-// let data2 = productBin.data[1].quantity;
-// let data3 = productBin.data[2].quantity;
-
-// console.log(`Jumlah dari quantity adalah ${data1+data2+data3}`)
-
-// let quantityProducts = productBin.data[0].quantity;
-// console.log(quantityProducts);
-
 const arr = [
     data1 = productBin.data[0].quantity,
     data2 = productBin.data[1].quantity,
